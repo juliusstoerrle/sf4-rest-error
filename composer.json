@@ -4,7 +4,7 @@
     "minimum-stability": "beta",
     "require": {
         "php": "^7.1.3",
-        "friendsofsymfony/rest-bundle": "dev-master#52cb63c7b7e0c2dd44b24298792d379661c47112",
+        "friendsofsymfony/rest-bundle": "dev-master#e87aba0f8d3483a29b3f66abb261cd1e043e881f",
         "jms/serializer": "dev-master#228bfef3c87b4afe6468273a385a58fdec154810 as 1.9.2",
         "jms/serializer-bundle": "dev-master#dc1639f442bbfe9f6998453416f7ddd6a3aa74bd",
         "sensio/framework-extra-bundle": "^5.0",
